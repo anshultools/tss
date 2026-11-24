@@ -43,7 +43,7 @@ ylabel('Amplitude');
 title('User 3 - 150 Hz');
 
 subplot(4,1,4);
-plot(t, fdma_signal);
+plot(t, user4);
 grid on;
 xlabel('Time (s)');
 ylabel('Amplitude');
