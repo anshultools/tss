@@ -1,25 +1,29 @@
 # TSS Practicals
 
-Telecommunication Switching Systems (TSS) practical repository with write-ups and extracted MATLAB scripts. **Original PDF files are not uploaded.**
+**Telecommunication Switching Systems (TSS)** practicals. Use this page as the main index to open every practical. MATLAB source files and practical write-ups are linked below. Original PDFs are not uploaded.
 
-## Index
+## Practicals Index
 
-| Sr. No. | Practical Name | Write-Up / Code |
-|---:|---|---|
-| 01 | Study of TDMA | [MATLAB](MATLAB/01_TDMA.m) |
-| 02 | Study of FDMA | [MATLAB](MATLAB/02_FDMA.m) |
-| 03 | Telecommunication Traffic (Erlang) | [MATLAB](MATLAB/03_Telecommunication_Traffic.m) |
-| 04 | Study of CDMA | [MATLAB](MATLAB/04_CDMA.m) |
-| 05 | Study of CD Player | [Write-up](practicals/05-cd-player.md) |
-| 06 | Introduction to PA System with Cordless Microphones | [Write-up](practicals/06-pa-system.md) |
-| 07 | Study of FAX | [Write-up](practicals/07-fax.md) |
-| 08 | Study of EPABX System | Source material not received yet |
-| 09 | Personal Portfolio in MATLAB | [Write-up](practicals/09-personal-portfolio.md) · [MATLAB](MATLAB/09_Personal_Portfolio.m) |
-| 10 | Study of Cordless Telephone | [Write-up](practicals/10-cordless-telephone.md) |
+| Sr. No. | Practical | Write-Up | Code / File |
+|---:|---|---|---|
+| 01 | Study of TDMA | — | [MATLAB Script](MATLAB/01_TDMA.m) |
+| 02 | Study of FDMA | — | [MATLAB Script](MATLAB/02_FDMA.m) |
+| 03 | Telecommunication Traffic (Erlang) | — | [MATLAB Script](MATLAB/03_Telecommunication_Traffic.m) |
+| 04 | Study of CDMA | — | [MATLAB Script](MATLAB/04_CDMA.m) |
+| 05 | Study of CD Player | [Open Write-Up](practicals/05-cd-player.md) | — |
+| 06 | Introduction to PA System with Cordless Microphones | [Open Write-Up](practicals/06-pa-system.md) | — |
+| 07 | Study of FAX | [Open Write-Up](practicals/07-fax.md) | — |
+| 08 | Study of EPABX System | [Write-Up placeholder](practicals/08-epabx-system.md) | — |
+| 09 | Personal Portfolio in MATLAB | [Open Write-Up](practicals/09-personal-portfolio.md) | [MATLAB Script](MATLAB/09_Personal_Portfolio.m) |
+| 10 | Study of Cordless Telephone | [Open Write-Up](practicals/10-cordless-telephone.md) | — |
 
-## Repository Layout
-- `MATLAB/` — MATLAB source scripts, named by practical number
-- `practicals/` — write-ups with aim, theory, diagrams, working, advantages/disadvantages where applicable, and conclusion
+## Quick Access
 
-## Run MATLAB Practicals
-Open the relevant `.m` file in MATLAB and run it. Each script is numbered to match the index above.
+- [All MATLAB files](MATLAB/)
+- [All practical write-ups](practicals/)
+
+## Run MATLAB Scripts
+
+Open a linked `.m` file in MATLAB and run it. Each script is named with its practical serial number.
+
+> Practical 08's detailed source material is not available yet. The linked page is a placeholder until the material is supplied.
