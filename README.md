@@ -9,7 +9,7 @@
 | 01 | Study of TDMA | [Open Write-Up](practicals/01-tdma.md) | [MATLAB Script](MATLAB/01_TDMA.m) |
 | 02 | Study of FDMA | [Open Write-Up](practicals/02-fdma.md) | [MATLAB Script](MATLAB/02_FDMA.m) |
 | 03 | Study of CDMA | [Open Write-Up](practicals/03-cdma.md) | [MATLAB Script](MATLAB/03_CDMA.m) |
-| 04 | Telecommunication Traffic (Erlang) | — | [MATLAB Script](MATLAB/04_Telecommunication_Traffic.m) |
+| 04 | Telecommunication Traffic (Erlang) | [Open Write-Up](practicals/04-telecommunication-traffic-erlang.md) | [MATLAB Script](MATLAB/04_Telecommunication_Traffic.m) |
 | 05 | Study of CD Player | [Open Write-Up](practicals/05-cd-player.md) | — |
 | 06 | Introduction to PA System with Cordless Microphones | [Open Write-Up](practicals/06-pa-system.md) | — |
 | 07 | Study of FAX | [Open Write-Up](practicals/07-fax.md) | — |
