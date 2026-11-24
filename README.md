@@ -7,7 +7,7 @@
 | Sr. No. | Practical | Write-Up | Code / File |
 |---:|---|---|---|
 | 01 | Study of TDMA | [Open Write-Up](practicals/01-tdma.md) | [MATLAB Script](MATLAB/01_TDMA.m) |
-| 02 | Study of FDMA | — | [MATLAB Script](MATLAB/02_FDMA.m) |
+| 02 | Study of FDMA | [Open Write-Up](practicals/02-fdma.md) | [MATLAB Script](MATLAB/02_FDMA.m) |
 | 03 | Telecommunication Traffic (Erlang) | — | [MATLAB Script](MATLAB/03_Telecommunication_Traffic.m) |
 | 04 | Study of CDMA | — | [MATLAB Script](MATLAB/04_CDMA.m) |
 | 05 | Study of CD Player | [Open Write-Up](practicals/05-cd-player.md) | — |
