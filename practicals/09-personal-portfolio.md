@@ -5,7 +5,7 @@
 **Software:** MATLAB.
 
 ## Theory
-MATLAB UI graphics create figure windows, panels, axes, labels, and buttons. This portfolio presents profile and academic information and uses a button callback to rotate the displayed name.
+HTML (Hypertext Markup Language) is a standard markup language used to create webpages. It uses various tags to display headings, paragraphs, images, buttons, and other content. In this practical, MATLAB software is used to create a personal portfolio interface displaying personal details, hobbies, and an “About Me” section with an interactive rotating name button.
 
 ## Program
 See [09_Personal_Portfolio.m](../MATLAB/09_Personal_Portfolio.m).
