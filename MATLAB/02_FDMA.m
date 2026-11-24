@@ -18,7 +18,8 @@ user1 = sin(2*pi*f1*t);
 user2 = sin(2*pi*f2*t);
 user3 = sin(2*pi*f3*t);
 
-% Combine all signals (FDMA signal)dma_signal = user1 + user2 + user3;
+% Combine all signal
+fdma_signal = user1 + user2 + user3;
 
 figure;
 subplot(4,1,1);
@@ -43,7 +44,7 @@ ylabel('Amplitude');
 title('User 3 - 150 Hz');
 
 subplot(4,1,4);
-plot(t, user4);
+plot(t,fdma_signal );
 grid on;
 xlabel('Time (s)');
 ylabel('Amplitude');
