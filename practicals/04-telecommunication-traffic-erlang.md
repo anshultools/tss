@@ -13,13 +13,13 @@ Telecommunication traffic represents the unit of traffic offered to a communicat
 
 The traffic intensity is given by:
 
-\[
-A = \lambda \times H
-\]
+
+A = λ*H
+
 
 Where:
 - **A** = traffic intensity in Erlangs
-- **\(\lambda\)** = call arrival rate in calls/hr
+- **λ** = call arrival rate in calls/hr
 - **H** = average call holding time in hrs
 
 ### Example
@@ -31,23 +31,23 @@ Where:
 First, the average call duration is converted from minutes to hours:
 
 \[
-H = \frac{3}{60} = 0.05\text{ hr}
+H = 3/60 = 0.05 hr
 \]
 
 The call arrival rate is:
 
-\[
-\lambda = \frac{N}{T} = \frac{160}{1} = 160\text{ calls/hr}
+
+λ= N/T = 160/1 = 160\text{ calls/hr}
 \]
 
 The traffic intensity is:
 
 \[
-A = \lambda \times H
+A = λ* H
 \]
 
 \[
-A = 160 \times 0.05 = 8\text{ Erlangs}
+A = 160  0.05 = 8 Erlangs
 \]
 
 The obtained traffic is **8 Erlangs**, while the available carrier capacity is only **5 Erlangs**. Since \(8 > 5\), the system is overloaded. The MATLAB output also gives the status as: `System is overloaded`.
