@@ -13,7 +13,7 @@
 | 05 | Study of CD Player | [Open Write-Up](practicals/05-cd-player.md) | — |
 | 06 | Introduction to PA System with Cordless Microphones | [Open Write-Up](practicals/06-pa-system.md) | — |
 | 07 | Study of FAX | [Open Write-Up](practicals/07-fax.md) | — |
-| 08 | Study of EPABX System | [Write-Up placeholder](practicals/08-epabx-system.md) | — |
+| 08 | Study of EPABX System | [Open Write-Up](practicals/08-epabx-system.md) | — |
 | 09 | Personal Portfolio in MATLAB | [Open Write-Up](practicals/09-personal-portfolio.md) | [MATLAB Script](MATLAB/09_Personal_Portfolio.m) |
 | 10 | Study of Cordless Telephone | [Open Write-Up](practicals/10-cordless-telephone.md) | — |
 
